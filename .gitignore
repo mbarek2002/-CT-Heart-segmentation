@@ -1,0 +1,21 @@
+# Environnement virtuel
+.venv/
+
+# Caches Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Donnees et fichiers generes
+/data/
+*.zip
+
+# Fichiers locaux et secrets
+.env
+.env.*
+!.env.example
+
+# Fichiers temporaires
+*.log
+.DS_Store
+Thumbs.db
