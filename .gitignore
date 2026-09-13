@@ -1,5 +1,11 @@
 # Environnement virtuel
 .venv/
+venv/
+
+# Modeles et logs d'entrainement
+/files/
+/logs/
+/logs_test/
 
 # Caches Python
 __pycache__/
